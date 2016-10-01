@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+*{
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.fregistro
+ {
+    width: 50%;
+    margin-left:25%;
+    margin-top:5%;
+    margin-bottom: 3%;
+ }
+ .table_head
+ {
+   background-color: #212121;
+   color: #fff;
+   font-weight: bold;
+ }
+ tr:hover
+ {
+    background-color: #80CBC4;
+ }
+ .table_head th
+ {
+   text-align: center;
+ }
+ .tr_codigo
+ {
+    color: #fff;
+    width: 100%;
+    font-size: 15px;
+ }
+ .accesos
+ {
+    display: flex;
+    flex-direction:raw;
+    width: 100%;
+ }
+ .accesos li
+ {
+ list-style: none;
+ margin-left:15px;
+ width: 100%;
+ }
+ 
+ 
+ .icon-delete
+ {
+   width: 20px;
+   height: 20px;
+ }
